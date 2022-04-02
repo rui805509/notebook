@@ -4,6 +4,6 @@
 
 阮一峰
 
-![](../../code/water/picture/missing_mae_sorce.png)
+![](https://cdn.jsdelivr.net/gh/rui805509/IMG-Cloud/img/missing_mse_sorce.png)
 
 阿斯顿发射点
