@@ -4,6 +4,3 @@
 
 阮一峰
 
-![](https://cdn.jsdelivr.net/gh/rui805509/IMG-Cloud/img/missing_mse_sorce.png)
-
-阿斯顿发射点
